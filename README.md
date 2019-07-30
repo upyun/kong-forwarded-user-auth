@@ -2,6 +2,8 @@
 
 Access Control with `X-Forwarded-User` header.
 
+It is recommended to use with [oauth2_proxy](https://github.com/pusher/oauth2_proxy).
+
 ## Install
 
 ```
