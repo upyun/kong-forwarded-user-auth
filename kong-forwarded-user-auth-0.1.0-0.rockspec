@@ -8,7 +8,7 @@ source = {
 
 supported_platforms = {"linux", "macosx"}
 description = {
-  summary = "Prometheus metrics for Kong and upstreams configured in Kong",
+  summary = "Access Control with X-Forwarded-User header",
   license = "Apache 2.0",
 }
 
